@@ -115,6 +115,8 @@
       <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hXdLQRHcmyNYJeDTPxvFeeCftN" />
@@ -164,6 +166,7 @@
       <workItem from="1623665455799" duration="860000" />
       <workItem from="1623674937989" duration="58000" />
       <workItem from="1624017066503" duration="8072000" />
+      <workItem from="1624029142054" duration="415000" />
     </task>
     <servers />
   </component>

@@ -26,10 +26,12 @@
                 <h1>
                     <a href="/tweets">
                         <img
-                            src="/images/logo.svg"
-                            alt="Tweety"
+                            src="/images/logo.jpg"
+                            alt="Japan"
+                            class="w-48 h-48"
                         >
                     </a>
+
                 </h1>
             </header>
         </section>

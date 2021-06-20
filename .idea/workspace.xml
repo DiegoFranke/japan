@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc27b5ae-e20a-425e-891a-86665933cd1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/logo.jpg" afterDir="false" />
+    <list default="true" id="cc27b5ae-e20a-425e-891a-86665933cd1b" name="Default Changelist" comment="last commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +149,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -177,8 +194,16 @@
       <workItem from="1623674937989" duration="58000" />
       <workItem from="1624017066503" duration="8072000" />
       <workItem from="1624029142054" duration="415000" />
-      <workItem from="1624186148900" duration="1220000" />
+      <workItem from="1624186148900" duration="1391000" />
     </task>
+    <task id="LOCAL-00001" summary="last commit">
+      <created>1624187502439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624187502439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +220,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1623674994751">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -203,6 +232,10 @@
     <state x="-1234" y="-244" key="FileChooserDialogImpl/0.0.1536.824/-1920.-455.1920.1040@-1920.-455.1920.1040" timestamp="1623498398112" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.-455.1920.1040@0.0.1536.824" timestamp="1623504882062" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616355161715" />
+    <state x="-1559" y="683" key="Vcs.Push.Dialog.v2" timestamp="1624187505069">
+      <screen x="-1920" y="551" width="1536" height="832" />
+    </state>
+    <state x="-1559" y="683" key="Vcs.Push.Dialog.v2/-1920.551.1536.832/0.0.1920.1040@-1920.551.1536.832" timestamp="1624187505069" />
     <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1624187059479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

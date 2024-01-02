@@ -21,10 +21,10 @@ class TweetsController extends Controller
             'body' => 'required|max:500',
         ]);
 
-        Tweet::create([
-            'user_id' => auth()->id(),
-            'body' => $attributes['body'],
-        ]);
+       // Tweet::create([
+      //      'user_id' => auth()->id(),
+       //     'body' => $attributes['body'],
+      //  ]);
 
         return redirect()->route('home');
     }

@@ -63,6 +63,13 @@
             {{ $user->email }}
         </p>
 
+  <div id="errorPopup" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; background-color: rgba(0, 0, 0, 0.5);">
+            <div style="background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                <h2 style="color: red;">Error!</h2>
+                <p>An error has occurred. Please try again later.</p>
+                <button onclick="closePopup()" style="margin-top: 10px; padding: 5px 10px; border: none; background-color: red; color: white; border-radius: 3px; cursor: pointer;">Close</button>
+            </div>
+        </div>
 
 
 
